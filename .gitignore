@@ -1,0 +1,14 @@
+# TensorFlow
+tmp/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Requirements file
+requirements.txt
+
+# Test python script
+wine_quality.py
