@@ -12,3 +12,9 @@ requirements.txt
 
 # Test python script
 wine_quality.py
+
+# Data directory
+data/
+
+# Images directory
+images/
