@@ -15,3 +15,6 @@ wine_quality.py
 
 # Images directory
 images/
+
+# Data directory
+data/winequality-red-clean.csv
