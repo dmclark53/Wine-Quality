@@ -2,7 +2,9 @@
 A project investigating the relationship between wine quality and the 
 chemical properties of the wine. It uses the 
 [Wine](http://archive.ics.uci.edu/ml/datasets/Wine) dataset from the
-[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml).
+[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). The project is split into two Jupyter notebooks.
+Wine Quality - Data Preparation prepares the data for modeling, which includes data exploration and cleaning.
+Wine Quality - TF Model setups up the TensorFlow model and trains it.
 
 ## Playing With Outliers
 
